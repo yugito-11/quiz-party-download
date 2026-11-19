@@ -19,8 +19,12 @@ Quiz-Abende im Stil von Jeopardy und Factile: Du bist der Gamemaster, deine Freu
 
 ## Mitspielen
 
-Deine Freunde brauchen **nichts zu installieren**. Sie öffnen im Browser (Handy oder PC) die Adresse, die in Quiz Party
-unter „👥 Freunde öffnen im Browser“ steht, oder scannen den QR-Code, und geben den PIN ein.
+Deine Freunde brauchen **nichts zu installieren**. Sie öffnen im Browser (Handy oder PC)
+
+**https://yugito-11.github.io/quiz-party-download/**
+
+und geben den PIN ein, den Quiz Party zeigt – oder sie scannen einfach den QR-Code.
+Das klappt überall: im selben WLAN, über mobiles Internet oder per Discord.
 
 ## Updates
 
