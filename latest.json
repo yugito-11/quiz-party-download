@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "notes": "Neues Design, Beitreten über feste Seite + PIN (auch übers Internet), Knopf 'Nach Updates suchen'",
+  "version": "1.7.1",
+  "notes": "Startet auch, wenn Quiz Party bei einem anderen Windows-Benutzer läuft",
   "date": "2026-11-19",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.7.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.7.1.exe"
 }
