@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "notes": "Startet auch, wenn Quiz Party bei einem anderen Windows-Benutzer läuft",
+  "version": "1.7.2",
+  "notes": "Keine Rückfragen mehr – Knöpfe führen die Aktion direkt aus",
   "date": "2026-11-19",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.7.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.7.2.exe"
 }
