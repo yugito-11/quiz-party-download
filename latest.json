@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "notes": "Neuer Spielmodus: Der Dümmste fliegt",
+  "version": "1.10.0",
+  "notes": "Eigene Fragen für Der Dümmste fliegt, falsche Antworten zur Abstimmung, Runde 2 doppelt, Zwischen-Finale",
   "date": "2026-11-19",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.9.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.10.0.exe"
 }
