@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "notes": "Erste Version als QuizParty.exe – mit Update-Knopf und Stream-Deck-Installation",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty.zip",
+  "plugin": "1.0.0.0",
+  "date": "2026-11-19"
+}
