@@ -9,7 +9,8 @@ Quiz-Abende im Stil von Jeopardy und Factile: Du bist der Gamemaster, deine Freu
 1. Die ZIP-Datei mit Rechtsklick → **„Alle extrahieren …“** entpacken.
 2. `QuizParty.exe` an einen festen Ort legen, z. B. auf den Desktop oder in einen eigenen Ordner.
    (Nicht unter „Programme“, sonst funktionieren die automatischen Updates nicht.)
-3. Doppelklick auf **QuizParty.exe**. Der Gamemaster öffnet sich im Browser.
+3. Doppelklick auf **QuizParty.exe**. Quiz Party öffnet sich in einem eigenen App-Fenster.
+   Schließt du das Fenster, wird Quiz Party beendet.
 
 > **Windows-Hinweis:** Beim ersten Start erscheint „Der Computer wurde durch Windows geschützt“.
 > Klick auf **„Weitere Informationen“** und dann **„Trotzdem ausführen“**. Danach kommt die Meldung nicht wieder.
@@ -18,8 +19,8 @@ Quiz-Abende im Stil von Jeopardy und Factile: Du bist der Gamemaster, deine Freu
 
 ## Mitspielen
 
-Deine Freunde brauchen **nichts zu installieren**. Sie öffnen im Browser die Adresse, die im Quiz-Party-Fenster
-unter „Freunde im WLAN“ steht, oder scannen den QR-Code, und geben den PIN ein.
+Deine Freunde brauchen **nichts zu installieren**. Sie öffnen im Browser (Handy oder PC) die Adresse, die in Quiz Party
+unter „👥 Freunde öffnen im Browser“ steht, oder scannen den QR-Code, und geben den PIN ein.
 
 ## Updates
 
