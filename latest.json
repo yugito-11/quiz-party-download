@@ -1,6 +1,6 @@
 {
-  "version": "1.19.2",
-  "notes": "Stream Deck: Einstellung „Wechselnd“ wird richtig angezeigt",
+  "version": "1.19.3",
+  "notes": "Stream Deck: Punkte-Tasten zeigen klar, welches Team die Punkte bekommt",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.19.2.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.19.3.exe"
 }
