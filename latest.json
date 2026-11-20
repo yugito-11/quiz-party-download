@@ -1,6 +1,6 @@
 {
-  "version": "1.16.0",
-  "notes": "Kein Scrollen mehr, Lösung verstecken, Chat pro Frage",
+  "version": "1.16.1",
+  "notes": "Startseite: Mini-Felder zeigen nur echte Funktionen",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.16.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.16.1.exe"
 }
