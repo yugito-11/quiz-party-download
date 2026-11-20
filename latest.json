@@ -1,6 +1,6 @@
 {
-  "version": "1.17.1",
-  "notes": "Startseite: Quizzes nach Spielart sortiert",
+  "version": "1.18.0",
+  "notes": "Der Dümmste fliegt: letzte Frage nach Zeitablauf, ruhige Ansicht, Bot-Antworten im Probespiel",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.17.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.18.0.exe"
 }
