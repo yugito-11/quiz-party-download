@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
-  "notes": "Stream Deck: Tasten funktionieren jetzt auch bei Der Dümmste fliegt und Wer bin ich?",
+  "version": "1.19.1",
+  "notes": "Stream Deck: Punkte-Tasten können das Team wechseln (lang drücken)",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.19.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.19.1.exe"
 }
