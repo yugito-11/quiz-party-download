@@ -1,6 +1,6 @@
 {
-  "version": "1.18.0",
-  "notes": "Der Dümmste fliegt: letzte Frage nach Zeitablauf, ruhige Ansicht, Bot-Antworten im Probespiel",
+  "version": "1.18.1",
+  "notes": "Discord: Absendername je nach Nachricht (Einladung, Endstand, Test)",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.18.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.18.1.exe"
 }
