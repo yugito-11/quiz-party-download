@@ -1,6 +1,6 @@
 {
-  "version": "1.13.0",
-  "notes": "Testlauf: Online-Zugang, Handys, Buzzer, Ton und Discord prüfen – ohne ein Spiel zu erstellen",
+  "version": "1.14.0",
+  "notes": "Ingame-Chat: Gamemaster schreibt immer, wer zuerst buzzert darf eine Nachricht schicken",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.13.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.14.0.exe"
 }
