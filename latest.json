@@ -1,6 +1,6 @@
 {
-  "version": "1.14.1",
-  "notes": "Buzzer reagiert wieder normal, Chat-Feld direkt sichtbar",
+  "version": "1.15.0",
+  "notes": "Probespiel mit Bots: allein alle Spielmodi testen",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.14.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.15.0.exe"
 }
