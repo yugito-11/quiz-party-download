@@ -1,6 +1,6 @@
 {
-  "version": "1.12.0",
-  "notes": "Neue animierte Startseite, Klick-Effekte und schräge Rahmen",
+  "version": "1.13.0",
+  "notes": "Testlauf: Online-Zugang, Handys, Buzzer, Ton und Discord prüfen – ohne ein Spiel zu erstellen",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.12.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.13.0.exe"
 }
