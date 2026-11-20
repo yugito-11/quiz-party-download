@@ -1,6 +1,6 @@
 {
-  "version": "1.11.0",
-  "notes": "Discord: Einladung mit PIN und QR-Code und Endstand automatisch in euren Kanal",
+  "version": "1.11.1",
+  "notes": "Fehlersuche: Protokoll, wenn sich Programme beenden",
   "date": "2026-11-20",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.11.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.11.1.exe"
 }
