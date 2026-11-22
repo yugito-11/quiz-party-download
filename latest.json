@@ -1,6 +1,6 @@
 {
-  "version": "1.33.2",
-  "notes": "Startseite: nach dem Löschen keine Einflug-Animation mehr",
+  "version": "1.33.3",
+  "notes": "Stream Deck: Tasten für Song erraten (Nochmal, Überspringen, Stufe/Automatik, Korrigieren)",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.33.2.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.33.3.exe"
 }
