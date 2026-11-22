@@ -1,6 +1,6 @@
 {
-  "version": "1.31.0",
-  "notes": "Neu: Spielerklärung (?) auf der Anzeige und am Handy; Anzeige nutzt den ganzen Bildschirm",
+  "version": "1.32.0",
+  "notes": "Anzeige zeigt mehr: Fortschritt, letzte Runde, Quiznacht-Stand, Verlauf, Joker, Awards",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.31.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.32.0.exe"
 }
