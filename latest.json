@@ -1,6 +1,6 @@
 {
-  "version": "1.28.0",
-  "notes": "Neu: WLAM – Antworten erfinden, abstimmen, bluffen; Stream Deck aktualisieren",
+  "version": "1.28.1",
+  "notes": "App startet gleich bildschirmfüllend",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.28.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.28.1.exe"
 }
