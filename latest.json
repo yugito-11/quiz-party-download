@@ -1,6 +1,6 @@
 {
-  "version": "1.24.1",
-  "notes": "Spielerseite springt nicht mehr; Buzzer kleiner, Hinweis-Kästchen größer",
+  "version": "1.25.0",
+  "notes": "Neu: Wer wird Millionär mit 150 Fragen; fertige Pakete für Dümmste, Wer bin ich und Spielbrett; Stream Deck aktualisieren",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.24.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.25.0.exe"
 }
