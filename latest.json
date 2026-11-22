@@ -1,6 +1,6 @@
 {
-  "version": "1.36.1",
-  "notes": "Song erraten: geraten wird kurz vor dem Titel, bei der Auflösung läuft der Song ohne Schnitt weiter",
+  "version": "1.37.0",
+  "notes": "4 neue Top-100-Listen, 6 neue Musik-Listen, doppelte Fragen werden markiert",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.36.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.37.0.exe"
 }
