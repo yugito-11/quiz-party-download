@@ -1,6 +1,6 @@
 {
-  "version": "1.35.2",
-  "notes": "Song erraten: der Song hört auf, sobald es zum nächsten geht",
+  "version": "1.36.0",
+  "notes": "Song erraten: Raten in ruhigem Teil, Auflösung im Refrain – automatisch oder im Editor einstellbar",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.35.2.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.36.0.exe"
 }
