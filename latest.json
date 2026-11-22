@@ -1,6 +1,6 @@
 {
-  "version": "1.32.0",
-  "notes": "Anzeige zeigt mehr: Fortschritt, letzte Runde, Quiznacht-Stand, Verlauf, Joker, Awards",
+  "version": "1.33.0",
+  "notes": "Neue Spielart: Song erraten – Songs suchen, Charts Österreich, 5 Stufen von 0,1 bis 5 Sekunden",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.32.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.33.0.exe"
 }
