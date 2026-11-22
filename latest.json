@@ -1,6 +1,6 @@
 {
-  "version": "1.24.0",
-  "notes": "Wer checkt's: Bild lässt sich nicht mehr scharf rausziehen, ganzes Bild sichtbar; Spielerseite größer; Beispiel-Quiz aufgeteilt",
+  "version": "1.24.1",
+  "notes": "Spielerseite springt nicht mehr; Buzzer kleiner, Hinweis-Kästchen größer",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.24.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.24.1.exe"
 }
