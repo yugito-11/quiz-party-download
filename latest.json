@@ -1,6 +1,6 @@
 {
-  "version": "1.36.0",
-  "notes": "Song erraten: Raten in ruhigem Teil, Auflösung im Refrain – automatisch oder im Editor einstellbar",
+  "version": "1.36.1",
+  "notes": "Song erraten: geraten wird kurz vor dem Titel, bei der Auflösung läuft der Song ohne Schnitt weiter",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.36.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.36.1.exe"
 }
