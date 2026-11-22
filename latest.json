@@ -1,6 +1,6 @@
 {
-  "version": "1.26.0",
-  "notes": "Neu: Quiznacht (mehrere Spiele an einem Abend, Gesamtwertung, Finale mit Awards) und Avatare für alle Spieler",
+  "version": "1.27.0",
+  "notes": "Quiznacht: Abend-Joker, Kopfgeld, Schätzfragen, Ablaufplan, Fortsetzen & Historie; Stream Deck aktualisieren",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.26.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.27.0.exe"
 }
