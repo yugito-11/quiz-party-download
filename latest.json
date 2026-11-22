@@ -1,6 +1,6 @@
 {
-  "version": "1.33.1",
-  "notes": "Song erraten: Ton läuft am Gamemaster-PC, wenn keine Anzeige offen ist",
+  "version": "1.33.2",
+  "notes": "Startseite: nach dem Löschen keine Einflug-Animation mehr",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.33.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.33.2.exe"
 }
