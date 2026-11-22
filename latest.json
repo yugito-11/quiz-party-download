@@ -1,6 +1,6 @@
 {
-  "version": "1.34.0",
-  "notes": "Team-Chat am Handy (nur fürs eigene Team, Gamemaster liest mit) und „wer wählt“ beim Spielbrett",
+  "version": "1.34.1",
+  "notes": "Der Dümmste fliegt: wer dran ist, sieht man jetzt klar in der eigenen Farbe",
   "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.34.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.34.1.exe"
 }
