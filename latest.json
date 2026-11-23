@@ -1,6 +1,6 @@
 {
-  "version": "1.37.1",
-  "notes": "Editor: Knopf „Doppelte ersetzen“ tauscht doppelte Fragen gegen neue aus den fertigen Paketen",
-  "date": "2026-11-22",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.37.1.exe"
+  "version": "1.38.0",
+  "notes": "Viel mehr fertige Fragen; zufälliges Einfügen nimmt keine Fragen, die schon in anderen Quizzes stehen",
+  "date": "2026-11-23",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.38.0.exe"
 }
