@@ -1,6 +1,6 @@
 {
-  "version": "1.41.0",
-  "notes": "Chat in jedem Spiel – pausiert nur, während geantwortet wird",
+  "version": "1.41.1",
+  "notes": "Farbstreifen folgen der Schräge; 4 Hints passt in die Gamemaster-Ansicht",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.41.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.41.1.exe"
 }
