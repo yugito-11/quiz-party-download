@@ -1,6 +1,6 @@
 {
-  "version": "1.40.1",
-  "notes": "Kleinigkeit: Online-Statuspunkt bleibt ein Punkt",
+  "version": "1.41.0",
+  "notes": "Chat in jedem Spiel – pausiert nur, während geantwortet wird",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.40.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.41.0.exe"
 }
