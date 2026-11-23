@@ -1,6 +1,6 @@
 {
-  "version": "1.41.2",
-  "notes": "Quiznacht: eingesetzte Joker sind nach einem abgebrochenen Spiel verbraucht und wirken nicht weiter",
+  "version": "1.42.0",
+  "notes": "Neu: Handy als Steuerpult – QR-Code scannen, springt automatisch zum passenden Pult je Spiel",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.41.2.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.42.0.exe"
 }
