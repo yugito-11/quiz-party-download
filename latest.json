@@ -1,6 +1,6 @@
 {
-  "version": "1.43.2",
-  "notes": "Steuerpult am Handy/Tablet sieht jetzt wie ein echtes Pult aus",
+  "version": "1.43.3",
+  "notes": "Antworten lassen sich nicht mehr ändern; haben alle abgegeben, stoppt die Zeit und es geht sofort weiter; Anzeige am zweiten Bildschirm",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.2.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.3.exe"
 }
