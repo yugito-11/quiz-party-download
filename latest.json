@@ -1,6 +1,6 @@
 {
-  "version": "1.43.0",
-  "notes": "Neues Steuerpult fürs Handy/Tablet (Stream Deck oder Dashboard, Querformat), Android-App ohne Browser-Leiste, zweiter Gamemaster-Bildschirm für Laptop/Tablet",
+  "version": "1.43.1",
+  "notes": "Android-App: Absturz beim Code-Scannen behoben",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.1.exe"
 }
