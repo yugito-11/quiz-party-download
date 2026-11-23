@@ -1,6 +1,6 @@
 {
-  "version": "1.38.0",
-  "notes": "Viel mehr fertige Fragen; zufälliges Einfügen nimmt keine Fragen, die schon in anderen Quizzes stehen",
+  "version": "1.39.0",
+  "notes": "Sound-Effekte auf der Anzeige, Quiz aus Text erstellen, Zuschauer-Modus, neue Bretter, Bilder-Themen und Schätzfragen",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.38.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.39.0.exe"
 }
