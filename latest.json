@@ -1,6 +1,6 @@
 {
-  "version": "1.41.1",
-  "notes": "Farbstreifen folgen der Schräge; 4 Hints passt in die Gamemaster-Ansicht",
+  "version": "1.41.2",
+  "notes": "Quiznacht: eingesetzte Joker sind nach einem abgebrochenen Spiel verbraucht und wirken nicht weiter",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.41.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.41.2.exe"
 }
