@@ -1,6 +1,6 @@
 {
-  "version": "1.42.0",
-  "notes": "Neu: Handy als Steuerpult – QR-Code scannen, springt automatisch zum passenden Pult je Spiel",
+  "version": "1.43.0",
+  "notes": "Neues Steuerpult fürs Handy/Tablet (Stream Deck oder Dashboard, Querformat), Android-App ohne Browser-Leiste, zweiter Gamemaster-Bildschirm für Laptop/Tablet",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.42.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.0.exe"
 }

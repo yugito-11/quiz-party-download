@@ -36,3 +36,6 @@ Deine Quizzes liegen unter **Dokumente → Quiz Party** und bleiben bei Updates 
 
 Im Gamemaster gibt es den Knopf **„🎛 Stream-Deck-Plugin installieren“**.
 Voraussetzung ist die Stream-Deck-Software 7.1 oder neuer.
+
+## Android-App „Quiz Steuerung“
+Handy/Tablet als Steuerpult ohne Browser-Leiste: [QuizParty-Steuerung.apk](QuizParty-Steuerung.apk) – oder direkt in Quiz Party über „Handy“ per QR-Code laden.
