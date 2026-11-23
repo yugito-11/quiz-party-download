@@ -1,6 +1,6 @@
 {
-  "version": "1.40.0",
-  "notes": "Quiznacht für einen bestimmten Tag vorbereiten (mit Ablaufplan), Finalfragen für alle fertigen Bretter",
+  "version": "1.40.1",
+  "notes": "Kleinigkeit: Online-Statuspunkt bleibt ein Punkt",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.40.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.40.1.exe"
 }
