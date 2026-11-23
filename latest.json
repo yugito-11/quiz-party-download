@@ -1,6 +1,6 @@
 {
-  "version": "1.39.0",
-  "notes": "Sound-Effekte auf der Anzeige, Quiz aus Text erstellen, Zuschauer-Modus, neue Bretter, Bilder-Themen und Schätzfragen",
+  "version": "1.40.0",
+  "notes": "Quiznacht für einen bestimmten Tag vorbereiten (mit Ablaufplan), Finalfragen für alle fertigen Bretter",
   "date": "2026-11-23",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.39.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.40.0.exe"
 }
