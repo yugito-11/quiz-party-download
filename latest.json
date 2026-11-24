@@ -1,6 +1,6 @@
 {
-  "version": "1.43.5",
-  "notes": "Der Dümmste fliegt: kein Tippen mehr während der Runde – falsche Antworten in der Abstimmung nachtragen",
+  "version": "1.43.6",
+  "notes": "Der Dümmste fliegt: Mitschreiben während der Runde wieder da, Nachtragen in der Abstimmung bleibt",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.5.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.6.exe"
 }
