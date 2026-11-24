@@ -1,6 +1,13 @@
 {
-  "version": "1.45.2",
-  "notes": "Android-App wird jetzt aus dem Internet geladen (klappt auch, wenn das Handy den PC nicht erreicht)",
+  "version": "1.46.0",
+  "notes": "Neue Spielart: Mehr oder weniger (mit 7 fertigen Listen). Updates können jetzt auch über 100 MB groß sein. Stream-Deck-Plugin aktualisiert.",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.45.2.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.46.0.exe",
+  "whole": true,
+  "parts": [
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.46.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.46.0.exe.part2"
+  ],
+  "size": 98211059,
+  "sha256": "47b9e02365d5f71cd12b03a07d1c23cae23d306e2f2870c9a1dde0f516ccaed1"
 }
