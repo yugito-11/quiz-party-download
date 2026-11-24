@@ -1,13 +1,13 @@
 {
-  "version": "1.48.2",
-  "notes": "Song erraten: Titel oder Interpret zählt gleich viel (kein Extrapunkt mehr)",
+  "version": "1.48.3",
+  "notes": "Song erraten: Titel oder Interpret zählt – wer beides tippt, muss beides richtig haben",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.3.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.3.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.3.exe.part2"
   ],
-  "size": 98223344,
-  "sha256": "c1368184991b9d87a86fcdb276e5354d106ddabfa68e596b0a2458ecc3855e5e"
+  "size": 98223899,
+  "sha256": "fbe006d0a35f45717915f858beec6b8bd7fd6fa3d18131bed40ad7b9f7cb1cbc"
 }
