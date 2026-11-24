@@ -1,13 +1,13 @@
 {
-  "version": "1.47.0",
-  "notes": "Steuerpult am Handy und Stream Deck funktionieren jetzt auch ohne laufendes Spiel (Spiel/Quiznacht starten, Online an/aus). Neu: Tasten-Belegung fürs Stream Deck in der App.",
+  "version": "1.47.1",
+  "notes": "Online-Zugang ist wieder schnell bereit. Tasten-Belegung zeigt jetzt für jede Spielart, was die Stream-Deck-Tasten tun.",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.1.exe.part2"
   ],
-  "size": 98215355,
-  "sha256": "4c28dae7e7ec41b27ec2c77fbee7148941f01bb190b20d62e5d02aa22603fce2"
+  "size": 98213209,
+  "sha256": "c72cb8932a4da183c7607c67f46ad3dde658523131b08eba4f37ffd62bad7667"
 }
