@@ -1,6 +1,6 @@
 {
-  "version": "1.44.0",
-  "notes": "Der Dümmste fliegt: „Antworten erkennen“ schreibt gesagte falsche Antworten automatisch mit (Spracherkennung läuft auf deinem PC)",
+  "version": "1.45.0",
+  "notes": "Spieler-Profile & Hall of Fame, Rückblick am Ende der Quiznacht, Zwischenstand in Discord, eigene Sounds",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.44.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.45.0.exe"
 }
