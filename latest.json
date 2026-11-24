@@ -1,6 +1,6 @@
 {
-  "version": "1.43.4",
-  "notes": "Android-App: zeigt beim Start „Verbinde …“, findet den PC nach einem Neustart selbst wieder",
+  "version": "1.43.5",
+  "notes": "Der Dümmste fliegt: kein Tippen mehr während der Runde – falsche Antworten in der Abstimmung nachtragen",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.4.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.5.exe"
 }
