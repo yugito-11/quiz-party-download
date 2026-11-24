@@ -1,13 +1,13 @@
 {
-  "version": "1.47.2",
-  "notes": "Zufällig erstellte Quizzes bekommen eigene Namen (WLAM, WLAM 2 …); Knopf zum Durchnummerieren gleicher Namen",
+  "version": "1.47.3",
+  "notes": "Quiz-Karten zeigen ein grünes „Gespielt“-Eck (automatisch nach dem Spiel, per Häkchen an/aus, ganz ausblendbar)",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.3.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.3.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.3.exe.part2"
   ],
-  "size": 98213205,
-  "sha256": "8ccdd798424ecb32e25db6e94fa6d053b790c8a3f9a7da1ddfef82bf47b6d975"
+  "size": 98239812,
+  "sha256": "b268850a61edc5238fc4f7f2e0a5fbfa4939dfbe415c0d37a6e70c1b648e7e94"
 }
