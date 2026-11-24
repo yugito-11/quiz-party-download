@@ -1,13 +1,13 @@
 {
-  "version": "1.48.1",
-  "notes": "Song erraten: Interpret zählt auch (beides = +1), in der Quiznacht kommt jetzt immer der richtige Song; Automatik ist standardmäßig aus",
+  "version": "1.48.2",
+  "notes": "Song erraten: Titel oder Interpret zählt gleich viel (kein Extrapunkt mehr)",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.1.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.2.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.1.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.1.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.2.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.2.exe.part2"
   ],
-  "size": 98202983,
-  "sha256": "12ed57719c187c65260412a5e205f76436b2d9bfe657081d85cfd46bdd3220b8"
+  "size": 98223344,
+  "sha256": "c1368184991b9d87a86fcdb276e5354d106ddabfa68e596b0a2458ecc3855e5e"
 }
