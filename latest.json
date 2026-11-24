@@ -1,6 +1,6 @@
 {
-  "version": "1.45.1",
-  "notes": "Online-Zugang: wird erst als bereit gemeldet, wenn er wirklich erreichbar ist, verbindet sich bei Problemen selbst neu",
+  "version": "1.45.2",
+  "notes": "Android-App wird jetzt aus dem Internet geladen (klappt auch, wenn das Handy den PC nicht erreicht)",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.45.1.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.45.2.exe"
 }
