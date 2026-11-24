@@ -1,6 +1,6 @@
 {
-  "version": "1.43.6",
-  "notes": "Der Dümmste fliegt: Mitschreiben während der Runde wieder da, Nachtragen in der Abstimmung bleibt",
+  "version": "1.44.0",
+  "notes": "Der Dümmste fliegt: „Antworten erkennen“ schreibt gesagte falsche Antworten automatisch mit (Spracherkennung läuft auf deinem PC)",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.43.6.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.44.0.exe"
 }
