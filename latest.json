@@ -1,13 +1,13 @@
 {
-  "version": "1.47.3",
-  "notes": "Quiz-Karten zeigen ein grünes „Gespielt“-Eck (automatisch nach dem Spiel, per Häkchen an/aus, ganz ausblendbar)",
+  "version": "1.48.0",
+  "notes": "Neu: Mit anderem PC abgleichen – Quizze, Quiznächte, Profile und Sounds über das WLAN gleich halten, ohne Cloud",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.3.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.3.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.47.3.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.48.0.exe.part2"
   ],
-  "size": 98239812,
-  "sha256": "b268850a61edc5238fc4f7f2e0a5fbfa4939dfbe415c0d37a6e70c1b648e7e94"
+  "size": 98222279,
+  "sha256": "ebfe519cf321a258d127d2c21de99035a9fd19502c5b2ba157ec8098ebcaf943"
 }
