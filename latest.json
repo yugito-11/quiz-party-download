@@ -1,6 +1,6 @@
 {
-  "version": "1.45.0",
-  "notes": "Spieler-Profile & Hall of Fame, Rückblick am Ende der Quiznacht, Zwischenstand in Discord, eigene Sounds",
+  "version": "1.45.1",
+  "notes": "Online-Zugang: wird erst als bereit gemeldet, wenn er wirklich erreichbar ist, verbindet sich bei Problemen selbst neu",
   "date": "2026-11-24",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.45.0.exe"
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.45.1.exe"
 }
