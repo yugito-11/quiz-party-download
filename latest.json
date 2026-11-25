@@ -1,13 +1,13 @@
 {
-  "version": "1.51.4",
-  "notes": "Gamemaster: Steuerknöpfe sitzen jetzt immer fest unten in einer Leiste",
+  "version": "1.52.0",
+  "notes": "Avatare im neuen Cartoon-Stil + neue Teile: Katze, Alien, Bär, Monster, Nerd-Brille, Herzaugen, Zyklop, Schnurrbart, Kussmund, Zahnlücke, Zauberhut, Wikingerhelm, Blume, Wollmütze, Cowboyhut",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.4.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.52.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.4.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.4.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.52.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.52.0.exe.part2"
   ],
-  "size": 98252485,
-  "sha256": "4d4fec10056f3eca4b76daef1169830303f7da6bc145002b4a360c6b850be6c0"
+  "size": 98238247,
+  "sha256": "e9b9d5db3ee07f6b80513fc09988d533943316fe9d35100c9437c715e2c39677"
 }
