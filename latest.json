@@ -1,13 +1,13 @@
 {
-  "version": "1.52.1",
-  "notes": "Sounds und Song-Hörproben: neue Vorschau stoppt die alte, Seitenwechsel stoppt alles",
+  "version": "1.53.0",
+  "notes": "OBS-Anbindung: Aufnahme startet und endet mit der Quiznacht, Clip-Knopf (letzte 30 Sekunden, auch Taste C, Steuerpult und Stream Deck), automatische Highlights. Neues Stream-Deck-Plugin mit Clip-Taste.",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.52.1.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.52.1.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.52.1.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.0.exe.part2"
   ],
-  "size": 98261392,
-  "sha256": "ed4b4b14adbe0fe055d289c265bd3d0cd02fcebfa2f2cc4155ead9b8c7f259c2"
+  "size": 98254631,
+  "sha256": "0017d3c150ef70b19d11de83f77cf077a2853bc536d67d9e0ed957505f116496"
 }
