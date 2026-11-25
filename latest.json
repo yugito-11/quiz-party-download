@@ -1,13 +1,13 @@
 {
-  "version": "1.50.3",
-  "notes": "Alte Installer (Temp- und Download-Ordner) werden nach dem Update automatisch gelöscht",
+  "version": "1.50.4",
+  "notes": "Updates sicherer: Der Installer wartet, bis Quiz Party wirklich beendet ist (verhindert halb installierte Updates)",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.3.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.4.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.3.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.3.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.4.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.4.exe.part2"
   ],
-  "size": 98258763,
-  "sha256": "c606d551a3e583feccd4696be82a0a4cfefe28cf1baa10667eb5b38bb1853786"
+  "size": 98233785,
+  "sha256": "78e033facef5003c6ed0e8c243c131c2f69655eced7645ea7e7646556314ffd6"
 }
