@@ -1,13 +1,13 @@
 {
-  "version": "1.50.5",
-  "notes": "Stadt-Land-Fluss: Kategorien und Runden vor dem Spielstart eintippen",
+  "version": "1.50.6",
+  "notes": "Quiznacht: grünes „Gespielt“ auch bei der Quiz-Auswahl; Stadt-Land-Fluss: Kategorien vor dem Start eintippen",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.5.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.6.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.5.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.5.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.6.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.6.exe.part2"
   ],
-  "size": 98235830,
-  "sha256": "f67a59855923bd3a603ec7b4503eec522206705432443e7b71db212c95746e83"
+  "size": 98238503,
+  "sha256": "e8d95f884a37adb61a0471cf8de5436f4ff5639fc42650bf27a8bc5194901da0"
 }
