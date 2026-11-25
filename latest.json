@@ -1,13 +1,13 @@
 {
-  "version": "1.50.2",
-  "notes": "Quiznacht: Spieler entfernen (Kreuz neben dem Namen, mit Rückgängig) – in der Lobby und im laufenden Spiel",
+  "version": "1.50.3",
+  "notes": "Alte Installer (Temp- und Download-Ordner) werden nach dem Update automatisch gelöscht",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.3.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.3.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.3.exe.part2"
   ],
-  "size": 98253358,
-  "sha256": "7f4c16951f64632fd7d260d26d417930dac8c18726b5c36a9f4d0f0ac816e4ee"
+  "size": 98258763,
+  "sha256": "c606d551a3e583feccd4696be82a0a4cfefe28cf1baa10667eb5b38bb1853786"
 }
