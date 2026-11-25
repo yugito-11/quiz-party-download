@@ -1,13 +1,13 @@
 {
-  "version": "1.51.0",
-  "notes": "Neues Design, Teil 1: lebendiger Hintergrund, Kopfzeile mit Fortschritt und Timer-Ring, schönere Spielerkarten, Laufband auf der Anzeige",
+  "version": "1.51.1",
+  "notes": "Neues Design, Teil 2: Spielbrett, Der Dümmste fliegt und Wer bin ich? bekommen die neue Kopfzeile mit Fortschritt und Timer-Ring",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.1.exe.part2"
   ],
-  "size": 98230882,
-  "sha256": "ab956a83c9d87bd30573555c28a404525c9d2c3406b4e49d37546ad56aad54a6"
+  "size": 98214746,
+  "sha256": "25c2ec8ac932adb7ea2b070a6896c0fed6cb66728838d507044b6e6d186d5139"
 }
