@@ -1,13 +1,13 @@
 {
-  "version": "1.55.0",
-  "notes": "Neu: Ergebnisbild am Spielende (gespeichert, Download-Knopf, mit dem Endstand in Discord). Rückblick der Quiznacht wird als eigenes OBS-Video aufgenommen. Im Stream sind PIN, Adresse und QR-Code jetzt versteckt.",
+  "version": "1.55.1",
+  "notes": "Tasten-Belegung fürs Stream Deck: alle Spielarten auf dem neuesten Stand, OBS-Clip-Taste auf Seite 2.",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.1.exe.part2"
   ],
-  "size": 98248746,
-  "sha256": "fcc1a496b9851695fb91bd163387396fa5b50f7c3ed4becf8624c59ae0f8da7a"
+  "size": 98259187,
+  "sha256": "e677cfd8604bc009988fa89d4e0d20396a78ce4a4b0d3749f023cce8b4c69f5e"
 }
