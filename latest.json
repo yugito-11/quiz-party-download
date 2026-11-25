@@ -1,13 +1,13 @@
 {
-  "version": "1.51.3",
-  "notes": "Neues Design, Teil 4: WLAM, Top 100, 4 Hints und Wer checkt's mit mehr Tiefe; Handy: Millionär-Sechsecke, farbige Höher/Niedriger-Knöpfe",
+  "version": "1.51.4",
+  "notes": "Gamemaster: Steuerknöpfe sitzen jetzt immer fest unten in einer Leiste",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.3.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.4.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.3.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.3.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.4.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.4.exe.part2"
   ],
-  "size": 98242530,
-  "sha256": "506a494a173b92e334da02913261e240594904a5fc2accfc02f8da201e3b073d"
+  "size": 98252485,
+  "sha256": "4d4fec10056f3eca4b76daef1169830303f7da6bc145002b4a360c6b850be6c0"
 }
