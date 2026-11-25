@@ -1,13 +1,13 @@
 {
-  "version": "1.51.2",
-  "notes": "Neues Design, Teil 3: Millionär mit Punkteleiter und Sechseck-Antworten, Song erraten mit Schallplatte, Mehr oder weniger mit großen Karten, Stadt-Land-Fluss mit Slot-Buchstabe und Kategorie-Karten",
+  "version": "1.51.3",
+  "notes": "Neues Design, Teil 4: WLAM, Top 100, 4 Hints und Wer checkt's mit mehr Tiefe; Handy: Millionär-Sechsecke, farbige Höher/Niedriger-Knöpfe",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.3.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.3.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.3.exe.part2"
   ],
-  "size": 98254119,
-  "sha256": "cd038671f8bf363d6548e3f6c52fe754f5527245f9d4e49aabb9c0239870192a"
+  "size": 98242530,
+  "sha256": "506a494a173b92e334da02913261e240594904a5fc2accfc02f8da201e3b073d"
 }
