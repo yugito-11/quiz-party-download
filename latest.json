@@ -1,13 +1,13 @@
 {
-  "version": "1.49.0",
-  "notes": "Song erraten: findet jetzt per Liedtext und Spracherkennung die Stelle, an der der Titel gesungen wird. Der Dümmste fliegt: falsche Antworten werden aufgenommen und lassen sich in der Abstimmung anhören",
+  "version": "1.49.1",
+  "notes": "Song erraten findet die Titel-Stelle per Liedtext und Spracherkennung; Dümmste: Antworten zum Anhören aufnehmen; Startseite: Fußleiste aufgeräumt",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.1.exe.part2"
   ],
-  "size": 98237913,
-  "sha256": "181918e83daf71db11fc2c1692d22b99eb2ae5c8ad138af92618c7629ae162c9"
+  "size": 98230978,
+  "sha256": "5adcddb6dac0757afe2a4191f671b9fc29ab4c0345a30eec45939073d278c305"
 }
