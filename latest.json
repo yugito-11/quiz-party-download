@@ -1,13 +1,13 @@
 {
-  "version": "1.50.1",
-  "notes": "Stadt-Land-Fluss: Der Buchstabe läuft wie ein Glücksrad durch, reihum stoppt ein Spieler am Handy. Stream Deck aktualisieren.",
+  "version": "1.50.2",
+  "notes": "Quiznacht: Spieler entfernen (Kreuz neben dem Namen, mit Rückgängig) – in der Lobby und im laufenden Spiel",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.1.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.2.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.1.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.1.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.2.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.2.exe.part2"
   ],
-  "size": 98220086,
-  "sha256": "91626cdb87fbc896d5c22c82103a46292b18e057449387456f7c85cde3725e1f"
+  "size": 98253358,
+  "sha256": "7f4c16951f64632fd7d260d26d417930dac8c18726b5c36a9f4d0f0ac816e4ee"
 }
