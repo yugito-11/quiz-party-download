@@ -1,13 +1,13 @@
 {
-  "version": "1.53.0",
-  "notes": "OBS-Anbindung: Aufnahme startet und endet mit der Quiznacht, Clip-Knopf (letzte 30 Sekunden, auch Taste C, Steuerpult und Stream Deck), automatische Highlights. Neues Stream-Deck-Plugin mit Clip-Taste.",
+  "version": "1.53.1",
+  "notes": "OBS: Replay-Puffer startet automatisch, auch wenn OBS erst später geöffnet wird.",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.53.1.exe.part2"
   ],
-  "size": 98254631,
-  "sha256": "0017d3c150ef70b19d11de83f77cf077a2853bc536d67d9e0ed957505f116496"
+  "size": 98255537,
+  "sha256": "f0f2150432c80e2cb8536bf52651619b5ee81f0d13e7f2159b0c716cea3ebc2c"
 }
