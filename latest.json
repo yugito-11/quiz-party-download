@@ -1,13 +1,13 @@
 {
-  "version": "1.49.1",
-  "notes": "Song erraten findet die Titel-Stelle per Liedtext und Spracherkennung; Dümmste: Antworten zum Anhören aufnehmen; Startseite: Fußleiste aufgeräumt",
+  "version": "1.50.0",
+  "notes": "Neue Spielart: Stadt-Land-Fluss – Buchstabe ziehen, alle füllen am Handy aus, Stopp, prüfen mit Einspruch, Punkte 20/10/5. Stream Deck aktualisieren.",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.1.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.1.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.49.1.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.0.exe.part2"
   ],
-  "size": 98230978,
-  "sha256": "5adcddb6dac0757afe2a4191f671b9fc29ab4c0345a30eec45939073d278c305"
+  "size": 98223383,
+  "sha256": "3875a1c14ae9e3b69f7fd42ad345e1adcc888fe0dbc5ce58bc20c1ec11e24093"
 }
