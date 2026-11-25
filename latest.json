@@ -1,13 +1,13 @@
 {
-  "version": "1.50.4",
-  "notes": "Updates sicherer: Der Installer wartet, bis Quiz Party wirklich beendet ist (verhindert halb installierte Updates)",
+  "version": "1.50.5",
+  "notes": "Stadt-Land-Fluss: Kategorien und Runden vor dem Spielstart eintippen",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.4.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.5.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.4.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.4.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.5.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.5.exe.part2"
   ],
-  "size": 98233785,
-  "sha256": "78e033facef5003c6ed0e8c243c131c2f69655eced7645ea7e7646556314ffd6"
+  "size": 98235830,
+  "sha256": "f67a59855923bd3a603ec7b4503eec522206705432443e7b71db212c95746e83"
 }
