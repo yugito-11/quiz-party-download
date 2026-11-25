@@ -1,13 +1,13 @@
 {
-  "version": "1.50.6",
-  "notes": "Quiznacht: grünes „Gespielt“ auch bei der Quiz-Auswahl; Stadt-Land-Fluss: Kategorien vor dem Start eintippen",
+  "version": "1.51.0",
+  "notes": "Neues Design, Teil 1: lebendiger Hintergrund, Kopfzeile mit Fortschritt und Timer-Ring, schönere Spielerkarten, Laufband auf der Anzeige",
   "date": "2026-11-25",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.6.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.6.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.50.6.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.51.0.exe.part2"
   ],
-  "size": 98238503,
-  "sha256": "e8d95f884a37adb61a0471cf8de5436f4ff5639fc42650bf27a8bc5194901da0"
+  "size": 98230882,
+  "sha256": "ab956a83c9d87bd30573555c28a404525c9d2c3406b4e49d37546ad56aad54a6"
 }
