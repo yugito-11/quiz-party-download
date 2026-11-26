@@ -1,13 +1,13 @@
 {
-  "version": "1.56.1",
-  "notes": "Kopfzeile wird nicht mehr abgeschnitten: bei wenig Platz zeigen die Knöpfe nur noch das Symbol (Name beim Drüberfahren).",
+  "version": "1.56.2",
+  "notes": "Quiznacht-Finale am PC: Knöpfe unten wieder ohne Scrollen sichtbar.",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.1.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.2.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.1.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.1.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.2.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.2.exe.part2"
   ],
-  "size": 98277844,
-  "sha256": "49ba64a8dd0bfc09688c992f98464b4379f9678b2c95b9b8ec753da0dfab8508"
+  "size": 98288212,
+  "sha256": "f96613c8336ca87e9004aa54dc501e4067bc54f23222fa271d9b80a9164a198b"
 }
