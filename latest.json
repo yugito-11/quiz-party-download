@@ -1,13 +1,13 @@
 {
-  "version": "1.55.2",
-  "notes": "Tasten-Belegung: neue Ansicht „Mein Quiznacht-Profil“ – die wichtigsten Tasten auf einer Seite, mit Plätzen für deine eigenen Tasten aus dem Main-Profil.",
+  "version": "1.55.3",
+  "notes": "„Mit anderem PC abgleichen“ nimmt jetzt auch die Discord- und OBS-Einstellungen mit. Discord „Trennen“ lässt sich rückgängig machen.",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.3.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.3.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.3.exe.part2"
   ],
-  "size": 98264835,
-  "sha256": "a4c390d3052f86ee6b6086f8eedd5ad7c892a15cdcd217d893bcc7e019cd9911"
+  "size": 98258608,
+  "sha256": "becae4502937b889031737be3cc88894c38ba599b001a33acba4a1314f81b61c"
 }
