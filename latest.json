@@ -1,13 +1,13 @@
 {
-  "version": "1.55.4",
-  "notes": "Behoben: Auf manchen PCs wurde das Update nicht installiert (Fenster ging zu, alte Version blieb).",
+  "version": "1.56.0",
+  "notes": "Neu: Highlight-Video aus den Clips des Abends (über OBS), Quiz-Party-Avatare im Discord-Overlay, neues Endstand-Podest, beim Beitreten frühere Spieler zum Antippen.",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.4.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.4.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.4.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.0.exe.part2"
   ],
-  "size": 98263799,
-  "sha256": "43b7a37737be296b4342450951ba49b1b303d8f024ba13f684f252c12e332fa2"
+  "size": 98307948,
+  "sha256": "637df4f849daa084e3151811ae45c20352c5b4bcd8bb70ada15f9d3d9dd6661e"
 }
