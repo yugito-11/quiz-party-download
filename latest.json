@@ -1,13 +1,13 @@
 {
-  "version": "1.56.2",
-  "notes": "Quiznacht-Finale am PC: Knöpfe unten wieder ohne Scrollen sichtbar.",
+  "version": "1.57.0",
+  "notes": "Neu: Bilder-Puzzle (Bild deckt sich Kachel für Kachel auf, 115 neue Bilder) und Blitzrunde (so viele Fragen wie möglich in 60 Sekunden, 156 neue Fragen). Stream-Deck-Plugin aktualisiert.",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.57.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.57.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.57.0.exe.part2"
   ],
-  "size": 98288212,
-  "sha256": "f96613c8336ca87e9004aa54dc501e4067bc54f23222fa271d9b80a9164a198b"
+  "size": 98291243,
+  "sha256": "97acd0076e8c15e65ba4984d956c0d719ae1285cd2a1895b4f12d8f165cad712"
 }
