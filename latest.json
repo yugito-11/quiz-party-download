@@ -1,13 +1,13 @@
 {
-  "version": "1.60.0",
-  "notes": "Neu: Show-Design (Knopf oben auf der Startseite: Design Klassisch/Show) – gerade Schrift, runde Karten, Farbe je Spielart. Turnier mit richtigem Turnierbaum.",
+  "version": "1.60.1",
+  "notes": "Show-Design: Platz 1, richtige Antworten und Duell-Sieger wieder hervorgehoben, Feinschliff.",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.1.exe.part2"
   ],
-  "size": 98388668,
-  "sha256": "47c57bcb5410768e6d4db4ad058c5edce1cc74989815019ad248c5e14053076c"
+  "size": 98368039,
+  "sha256": "a9569eac2724a306fd2caf4a7f1049f33fadcb553e10493ed74f871fb74f6482"
 }
