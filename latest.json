@@ -1,13 +1,13 @@
 {
-  "version": "1.56.0",
-  "notes": "Neu: Highlight-Video aus den Clips des Abends (über OBS), Quiz-Party-Avatare im Discord-Overlay, neues Endstand-Podest, beim Beitreten frühere Spieler zum Antippen.",
+  "version": "1.56.1",
+  "notes": "Kopfzeile wird nicht mehr abgeschnitten: bei wenig Platz zeigen die Knöpfe nur noch das Symbol (Name beim Drüberfahren).",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.56.1.exe.part2"
   ],
-  "size": 98307948,
-  "sha256": "637df4f849daa084e3151811ae45c20352c5b4bcd8bb70ada15f9d3d9dd6661e"
+  "size": 98277844,
+  "sha256": "49ba64a8dd0bfc09688c992f98464b4379f9678b2c95b9b8ec753da0dfab8508"
 }
