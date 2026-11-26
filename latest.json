@@ -1,13 +1,13 @@
 {
-  "version": "1.59.1",
-  "notes": "Stream Deck: Wechseln bei den Punkte-Tasten (+/−) wechselt jetzt beide Tasten aufs selbe Team.",
+  "version": "1.60.0",
+  "notes": "Neu: Show-Design (Knopf oben auf der Startseite: Design Klassisch/Show) – gerade Schrift, runde Karten, Farbe je Spielart. Turnier mit richtigem Turnierbaum.",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.1.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.1.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.1.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.0.exe.part2"
   ],
-  "size": 98302270,
-  "sha256": "ec01c98951c253341126b0ca1750dc65f8842b9bfeac55b6d813d506b09b0194"
+  "size": 98388668,
+  "sha256": "47c57bcb5410768e6d4db4ad058c5edce1cc74989815019ad248c5e14053076c"
 }
