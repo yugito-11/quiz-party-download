@@ -1,13 +1,13 @@
 {
-  "version": "1.59.0",
-  "notes": "Neu: Ereignisse in der Quiznacht – zwischen den Spielen kann Robin Hood, Glückspilz, Steuerreform, Siegprämie, Rote Laterne, Underdog u. a. kommen (Knopf Ereignis ziehen oder ab dem 2. Spiel ab und zu von selbst).",
+  "version": "1.59.1",
+  "notes": "Stream Deck: Wechseln bei den Punkte-Tasten (+/−) wechselt jetzt beide Tasten aufs selbe Team.",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.59.1.exe.part2"
   ],
-  "size": 98305779,
-  "sha256": "bc3c9a0e2842c19618c7d46b35fcd823c1ca05c7840a8a775231f0e75f1e7f08"
+  "size": 98302270,
+  "sha256": "ec01c98951c253341126b0ca1750dc65f8842b9bfeac55b6d813d506b09b0194"
 }
