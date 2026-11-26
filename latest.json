@@ -1,13 +1,13 @@
 {
-  "version": "1.55.3",
-  "notes": "„Mit anderem PC abgleichen“ nimmt jetzt auch die Discord- und OBS-Einstellungen mit. Discord „Trennen“ lässt sich rückgängig machen.",
+  "version": "1.55.4",
+  "notes": "Behoben: Auf manchen PCs wurde das Update nicht installiert (Fenster ging zu, alte Version blieb).",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.3.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.4.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.3.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.3.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.4.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.55.4.exe.part2"
   ],
-  "size": 98258608,
-  "sha256": "becae4502937b889031737be3cc88894c38ba599b001a33acba4a1314f81b61c"
+  "size": 98263799,
+  "sha256": "43b7a37737be296b4342450951ba49b1b303d8f024ba13f684f252c12e332fa2"
 }
