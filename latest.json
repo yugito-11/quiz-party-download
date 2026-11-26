@@ -1,13 +1,13 @@
 {
-  "version": "1.57.0",
-  "notes": "Neu: Bilder-Puzzle (Bild deckt sich Kachel für Kachel auf, 115 neue Bilder) und Blitzrunde (so viele Fragen wie möglich in 60 Sekunden, 156 neue Fragen). Stream-Deck-Plugin aktualisiert.",
+  "version": "1.58.0",
+  "notes": "Neu: Turnier (K.-o.-System) – immer zwei im Duell mit gemischten Fragen (Wissen, Schätzen, Bild erkennen, Blitz), die anderen tippen auf den Sieger. Stream-Deck-Plugin 1.13.",
   "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.57.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.58.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.57.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.57.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.58.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.58.0.exe.part2"
   ],
-  "size": 98291243,
-  "sha256": "97acd0076e8c15e65ba4984d956c0d719ae1285cd2a1895b4f12d8f165cad712"
+  "size": 98306990,
+  "sha256": "359cf95ef312674f07e9868a096a8265afd5979456222ed60b8d91df8556e9ba"
 }
