@@ -1,13 +1,13 @@
 {
-  "version": "1.62.11",
-  "notes": "Profil-Seite und Startseite: Kästen nebeneinander gleich hoch",
+  "version": "1.62.12",
+  "notes": "Startseite: Knöpfe der Quiz-Karten ragen nicht mehr hinaus",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.11.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.12.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.11.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.11.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.12.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.12.exe.part2"
   ],
-  "size": 98418815,
-  "sha256": "8750e32a87bbe965239904419b64682b851d262f8f78e09e076b23628419299c"
+  "size": 98419947,
+  "sha256": "64153683ff988d68a61677beba6ddfd00250da90029e2b61a598cfe48ee53c47"
 }
