@@ -1,13 +1,13 @@
 {
-  "version": "1.62.10",
-  "notes": "Abgleich: zurückgesetzter Code bleibt zurückgesetzt",
+  "version": "1.62.11",
+  "notes": "Profil-Seite und Startseite: Kästen nebeneinander gleich hoch",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.10.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.11.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.10.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.10.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.11.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.11.exe.part2"
   ],
-  "size": 98479861,
-  "sha256": "e866ffe3650115f72b4ffb6021125ac591a9bf19e8451779610cf7d1d7a9c46e"
+  "size": 98418815,
+  "sha256": "8750e32a87bbe965239904419b64682b851d262f8f78e09e076b23628419299c"
 }
