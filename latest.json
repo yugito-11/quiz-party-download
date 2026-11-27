@@ -1,13 +1,13 @@
 {
-  "version": "1.60.1",
-  "notes": "Show-Design: Platz 1, richtige Antworten und Duell-Sieger wieder hervorgehoben, Feinschliff.",
-  "date": "2026-11-26",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.1.exe",
+  "version": "1.60.2",
+  "notes": "4 Hints: 10 Sekunden nach dem letzten Hinweis ist die Runde vorbei. Endstand: Bei Gleichstand aller keine Medaillen mehr.",
+  "date": "2026-11-27",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.2.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.1.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.1.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.2.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.2.exe.part2"
   ],
-  "size": 98368039,
-  "sha256": "a9569eac2724a306fd2caf4a7f1049f33fadcb553e10493ed74f871fb74f6482"
+  "size": 98398495,
+  "sha256": "4bb78ff028422b30aee719ed6d3ab2f8af7445a07ac7337e53fb0f6c1c9291d1"
 }
