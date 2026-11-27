@@ -4,7 +4,7 @@ Quiz-Abende im Stil von Jeopardy und Factile: Du bist der Gamemaster, deine Freu
 
 ## ⬇ Herunterladen (Windows)
 
-**[Quiz Party herunterladen (QuizParty-Setup-1.62.12.exe)](https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.12.exe)**
+**[Quiz Party herunterladen (QuizParty-Setup-1.63.0.exe)](https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.63.0.exe)**
 
 1. Die Datei herunterladen und doppelklicken – der Installer richtet Quiz Party ein und legt eine Verknüpfung an.
 2. Quiz Party startet danach in einem eigenen App-Fenster. Schließt du das Fenster, wird Quiz Party beendet.
