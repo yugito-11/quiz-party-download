@@ -1,13 +1,13 @@
 {
-  "version": "1.62.4",
-  "notes": "Neues Spiel beendet das vorige – Mitspieler landen nicht mehr im alten Spiel",
+  "version": "1.62.5",
+  "notes": "Turnier: richtiges Bild, Kacheln decken das Bild ab, Schätzfragen lassen sich wieder tippen",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.4.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.5.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.4.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.4.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.5.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.5.exe.part2"
   ],
-  "size": 98404217,
-  "sha256": "251a9bebdefa71c310d9d4419554c66a7323dc3f5b6efe84a229e432eb1edab6"
+  "size": 98412662,
+  "sha256": "d6403f4b88130c89c1ad7c546df12e9a29f7eb646c91f66684819f6de5f5ddcb"
 }
