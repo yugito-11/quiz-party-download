@@ -1,13 +1,13 @@
 {
-  "version": "1.61.0",
-  "notes": "Neue Pakete: Logos (Wer checkt's + Puzzle), Spielbrett Kino & Serien, Blitz Kino/Österreich, Mehr oder weniger Österreich, 115 neue Fragen. Show-Design: kein Nach-rechts-Scrollen mehr.",
+  "version": "1.61.1",
+  "notes": "Blitzrunde: Spammen lohnt sich nicht mehr – falsch kostet 1 Punkt und sperrt 1,5 Sekunden (auch im Turnier-Blitz-Duell).",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.0.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.1.exe.part2"
   ],
-  "size": 98426459,
-  "sha256": "2514f49dae31cfd3d2b4f9c9ff08f2d82ace28c5447dab247e34c4ff3d0ea406"
+  "size": 98398503,
+  "sha256": "0d155574058af3b3add54dc1eceb123b34a9e8326b0f52085d32a8c5add58bf3"
 }
