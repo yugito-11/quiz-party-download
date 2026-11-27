@@ -1,13 +1,13 @@
 {
-  "version": "1.60.2",
-  "notes": "4 Hints: 10 Sekunden nach dem letzten Hinweis ist die Runde vorbei. Endstand: Bei Gleichstand aller keine Medaillen mehr.",
+  "version": "1.61.0",
+  "notes": "Neue Pakete: Logos (Wer checkt's + Puzzle), Spielbrett Kino & Serien, Blitz Kino/Österreich, Mehr oder weniger Österreich, 115 neue Fragen. Show-Design: kein Nach-rechts-Scrollen mehr.",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.60.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.0.exe.part2"
   ],
-  "size": 98398495,
-  "sha256": "4bb78ff028422b30aee719ed6d3ab2f8af7445a07ac7337e53fb0f6c1c9291d1"
+  "size": 98426459,
+  "sha256": "2514f49dae31cfd3d2b4f9c9ff08f2d82ace28c5447dab247e34c4ff3d0ea406"
 }
