@@ -1,13 +1,13 @@
 {
-  "version": "1.62.9",
-  "notes": "Online-Spieler: Name, Avatar und Anmeldung bleiben auch bei neuer Online-Adresse",
+  "version": "1.62.10",
+  "notes": "Abgleich: zurückgesetzter Code bleibt zurückgesetzt",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.9.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.10.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.9.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.9.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.10.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.10.exe.part2"
   ],
-  "size": 98406631,
-  "sha256": "ddd399cbf2492394c43891d15cb9af1fdee484a28ebf8e195d64b30e45b9c26e"
+  "size": 98479861,
+  "sha256": "e866ffe3650115f72b4ffb6021125ac591a9bf19e8451779610cf7d1d7a9c46e"
 }
