@@ -1,13 +1,13 @@
 {
-  "version": "1.62.3",
-  "notes": "Saison-Wertung wird beim PC-Abgleich zuverlässig zusammengeführt",
+  "version": "1.62.4",
+  "notes": "Neues Spiel beendet das vorige – Mitspieler landen nicht mehr im alten Spiel",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.3.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.4.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.3.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.3.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.4.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.4.exe.part2"
   ],
-  "size": 98404853,
-  "sha256": "c485060f29a2833b41abff37cf5e12ef71b3e0a19f249e70a08c6607a7c26bb7"
+  "size": 98404217,
+  "sha256": "251a9bebdefa71c310d9d4419554c66a7323dc3f5b6efe84a229e432eb1edab6"
 }
