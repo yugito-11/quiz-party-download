@@ -1,13 +1,13 @@
 {
-  "version": "1.62.6",
-  "notes": "Wer checkt's: gleiche Schärfe bei Gamemaster und Spielern, Bild wird flüssig schärfer",
+  "version": "1.62.7",
+  "notes": "Account merkt den Avatar sofort, Turnier: lange Namen passen in den Kasten",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.6.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.7.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.6.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.6.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.7.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.7.exe.part2"
   ],
-  "size": 98411202,
-  "sha256": "1c0a15367d9ac9f7911e5803559baab71b477014c55f5681fe1aec7610f00d9f"
+  "size": 98439809,
+  "sha256": "e071c98c944ca88cb7663dcf62c776aa99c1b080e74df3f9f4499405ecaeca89"
 }
