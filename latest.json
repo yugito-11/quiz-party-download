@@ -1,13 +1,13 @@
 {
-  "version": "1.61.1",
-  "notes": "Blitzrunde: Spammen lohnt sich nicht mehr – falsch kostet 1 Punkt und sperrt 1,5 Sekunden (auch im Turnier-Blitz-Duell).",
+  "version": "1.61.2",
+  "notes": "Online: Turnier zeigt wieder die feste Beitrittsseite mit PIN statt der langen Tunnel-Adresse; Show-Design und Turnier-Bilder gehen jetzt auch für Online-Spieler.",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.1.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.2.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.1.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.1.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.2.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.2.exe.part2"
   ],
-  "size": 98398503,
-  "sha256": "0d155574058af3b3add54dc1eceb123b34a9e8326b0f52085d32a8c5add58bf3"
+  "size": 98423783,
+  "sha256": "1fb4f4fe1a0c5f3f24437f26da64f0f6b2164ab7ae50014c18e36e5a50e1ef48"
 }
