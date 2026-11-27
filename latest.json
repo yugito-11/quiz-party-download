@@ -1,13 +1,13 @@
 {
-  "version": "1.61.2",
-  "notes": "Online: Turnier zeigt wieder die feste Beitrittsseite mit PIN statt der langen Tunnel-Adresse; Show-Design und Turnier-Bilder gehen jetzt auch für Online-Spieler.",
+  "version": "1.62.0",
+  "notes": "Neu: freiwillige Accounts (Name + 4-stelliger Code), Mein Profil mit Statistik und 16 Erfolgen, Saison-Wertung auf der Startseite.",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.0.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.61.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.0.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.0.exe.part2"
   ],
-  "size": 98423783,
-  "sha256": "1fb4f4fe1a0c5f3f24437f26da64f0f6b2164ab7ae50014c18e36e5a50e1ef48"
+  "size": 98395286,
+  "sha256": "1d8f15855ec39b478e1eee74dbe510f5ff0ef4234ca6bc068a6b7b43aec4e101"
 }
