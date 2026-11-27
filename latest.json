@@ -1,13 +1,13 @@
 {
-  "version": "1.62.5",
-  "notes": "Turnier: richtiges Bild, Kacheln decken das Bild ab, Schätzfragen lassen sich wieder tippen",
+  "version": "1.62.6",
+  "notes": "Wer checkt's: gleiche Schärfe bei Gamemaster und Spielern, Bild wird flüssig schärfer",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.5.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.6.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.5.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.5.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.6.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.6.exe.part2"
   ],
-  "size": 98412662,
-  "sha256": "d6403f4b88130c89c1ad7c546df12e9a29f7eb646c91f66684819f6de5f5ddcb"
+  "size": 98411202,
+  "sha256": "1c0a15367d9ac9f7911e5803559baab71b477014c55f5681fe1aec7610f00d9f"
 }
