@@ -1,13 +1,13 @@
 {
-  "version": "1.62.2",
-  "notes": "Saison-Wertung wird beim Abgleich zwischen PC und Laptop zusammengeführt – keine Punkte gehen verloren.",
+  "version": "1.62.3",
+  "notes": "Saison-Wertung wird beim PC-Abgleich zuverlässig zusammengeführt",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.2.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.3.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.2.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.2.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.3.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.3.exe.part2"
   ],
-  "size": 98401723,
-  "sha256": "b07a7a178bb4921ba825e91e2bce08034014c9a3ceb760c1c6407676c474f94d"
+  "size": 98404853,
+  "sha256": "c485060f29a2833b41abff37cf5e12ef71b3e0a19f249e70a08c6607a7c26bb7"
 }
