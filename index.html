@@ -76,7 +76,10 @@ async function join(pin) {
     for (let i = 0; !ok && i < 5; i++) { say(`Verbinde mit dem Spiel … (${i + 2}. Versuch)`); await new Promise((r) => setTimeout(r, 2500)); url = (await lookup(pin)) || url; ok = await reachable(url); }
     if (!ok) return say('Das Spiel ist gerade nicht erreichbar. Läuft Quiz Party beim Gamemaster noch? Der Gamemaster kann unter „Testlauf“ prüfen, ob der Online-Zugang klappt.', true);
     say('Gefunden – einen Moment …');
-    location.href = url.replace(/\/$/, '') + '/?pin=' + pin;
+    // Geräte-Kennung mitgeben: Die Online-Adresse ändert sich bei jedem Start, diese Seite bleibt gleich →
+    // der PC erkennt das Gerät wieder (Name, Avatar, Account-Anmeldung)
+    let dev = null; try { dev = localStorage.getItem('qp-dev'); if (!/^[a-f0-9]{32}$/.test(dev || '')) { dev = [...crypto.getRandomValues(new Uint8Array(16))].map((x) => x.toString(16).padStart(2, '0')).join(''); localStorage.setItem('qp-dev', dev); } } catch {}
+    location.href = url.replace(/\/$/, '') + '/?pin=' + pin + (dev ? '#dev=' + dev : '');
   } catch (e) { say(e.message || 'Etwas ist schiefgelaufen.', true); }
   finally { $('go').disabled = false; }
 }

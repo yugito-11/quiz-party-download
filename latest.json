@@ -1,13 +1,13 @@
 {
-  "version": "1.62.8",
-  "notes": "Abgleich: Spieler-Statistiken werden zusammengezählt statt überschrieben",
+  "version": "1.62.9",
+  "notes": "Online-Spieler: Name, Avatar und Anmeldung bleiben auch bei neuer Online-Adresse",
   "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.8.exe",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.9.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.8.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.8.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.9.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.62.9.exe.part2"
   ],
-  "size": 98403234,
-  "sha256": "a54ea58a554af6cde8dd123046daeca40bcd1365f0c92f67a41e3957a02d551e"
+  "size": 98406631,
+  "sha256": "ddd399cbf2492394c43891d15cb9af1fdee484a28ebf8e195d64b30e45b9c26e"
 }
