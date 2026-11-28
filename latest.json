@@ -1,13 +1,13 @@
 {
-  "version": "1.63.0",
-  "notes": "Neue Spielart Idiotentest: Fangfragen mit Falle und Zahlen-Fangfragen, Idiot des Spiels, 66 fertige Fangfragen",
-  "date": "2026-11-27",
-  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.63.0.exe",
+  "version": "1.63.1",
+  "notes": "Durchgang: Spieler-Seite am PC scrollt nicht mehr, Dümmste-Endstand nach Leben, Jahreszahlen richtig, Gleichstand bei Top 100, kleinere Korrekturen",
+  "date": "2026-11-28",
+  "download": "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.63.1.exe",
   "whole": true,
   "parts": [
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.63.0.exe.part1",
-    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.63.0.exe.part2"
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.63.1.exe.part1",
+    "https://github.com/yugito-11/quiz-party-download/raw/main/QuizParty-Setup-1.63.1.exe.part2"
   ],
-  "size": 98410237,
-  "sha256": "e2d1946ebe89e9f8bbbdb7fee527e71f51e86ea41e5057ec4a20dd4537b4bd52"
+  "size": 98425806,
+  "sha256": "ad2c5eb27918a9868ef301786a78da722bd8fbde5297303943a3d17321724fa8"
 }
